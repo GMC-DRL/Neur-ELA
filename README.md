@@ -7,6 +7,8 @@ You can install all of dependencies of NeurELA via the command below.
 pip install -r requirements.txt
 ```
 
+After installing these dependecies, **please** refer to [instruction_to_modify_pypop7](instruction_to_modify_pypop7.md) for help to modify the source code of PyPop7 to meet our requirements.
+
 ## Train
 The training process can be easily activated via the command below.
 ```bash
