@@ -28,7 +28,7 @@ records
 
 ## Zero-shot
 
-Once the NeurELA checkpoint saved, you can validate its zero-shot performance via running the commmand below.
+Once the NeurELA checkpoint saved, you can validate its zero-shot performance via running the commmand below. Note that you should provide `load_path` correctly 
 
 ```bash
 python zero-shot.py
@@ -38,5 +38,10 @@ You can modify `testsuits` or `MetaBBO algorithms` in `zero-shot.py` for specifi
 
 ## Fine-tune
 
+You can activate the fine-tuning process by running the command below,
 
-## File structure
+```bash
+python transfer.py
+```
+
+Similar to zero-shot process, you can modify `testsuits` or `MetaBBO algorithms` in `transfer.py` for specific requirements.
