@@ -1,0 +1,10 @@
+cloudpickle==3.0.0
+gym==0.26.2
+matplotlib==3.9.0
+numpy==1.26.4
+pflacco==1.2.2
+pypop7==0.0.79
+ray==2.22.0
+scipy==1.13.0
+torch>=1.8.2
+tqdm==4.63.0
