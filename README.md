@@ -47,3 +47,16 @@ python transfer.py
 ```
 
 Similar to zero-shot process, you can modify `testsuits` or `MetaBBO algorithms` in `transfer.py` for specific requirements.
+
+## Citing NeurELA
+
+The PDF version of the paper is available [here](https://arxiv.org/pdf/2404.08239). If you find our NeurELA useful, please cite it in your publications or projects.
+
+```latex
+@article{ma2024neural,
+  title={Neural Exploratory Landscape Analysis},
+  author={Ma, Zeyuan and Chen, Jiacheng and Guo, Hongshu and Gong, Yue-Jiao},
+  journal={arXiv preprint arXiv:2408.10672},
+  year={2024}
+}
+```
