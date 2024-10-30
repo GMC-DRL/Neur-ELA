@@ -50,7 +50,7 @@ Similar to zero-shot process, you can modify `testsuits` or `MetaBBO algorithms`
 
 ## Citing NeurELA
 
-The PDF version of the paper is available [here](https://arxiv.org/pdf/2404.08239). If you find our NeurELA useful, please cite it in your publications or projects.
+The PDF version of the paper is available [here](https://arxiv.org/pdf/2408.10672). If you find our NeurELA useful, please cite it in your publications or projects.
 
 ```latex
 @article{ma2024neural,
